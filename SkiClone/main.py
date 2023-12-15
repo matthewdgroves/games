@@ -1,3 +1,6 @@
+# To enable audio for playing file locally, un-comment lines: 57, 67, 68, 69, 108, 235, 241, 248, 249, 255, 
+
+
 import pygame, random, sys
 from pygame.locals import *
 
